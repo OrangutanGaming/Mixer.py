@@ -1,2 +1,2 @@
 # Mixer.py
-A Python library for Mixer
+An async Python library for Mixer
